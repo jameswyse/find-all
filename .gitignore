@@ -1,0 +1,15 @@
+*.sublime-*
+lib-cov
+*.seed
+*.log
+*.csv
+*.dat
+*.out
+*.pid
+*.gz
+
+pids
+logs
+results
+.DS_STORE
+node_modules

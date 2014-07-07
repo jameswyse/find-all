@@ -1,0 +1,29 @@
+{
+  "name": "find-all",
+  "version": "0.0.1",
+  "description": "Finds all matching files",
+  "author": "James Wyse <james@jameswyse.net>",
+  "license": "MIT",
+  "main": "lib/finder.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jameswyse/find-all"
+  },
+  "bugs": {
+    "url": "https://github.com/jameswyse/find-all/issues"
+  },
+  "homepage": "https://github.com/jameswyse/find-all",
+  "keywords": [
+    "glob",
+    "find",
+    "walk",
+    "finder",
+    "minimatch"
+  ],
+  "dependencies": {
+    "glob": "4.0.x"
+  }
+}
