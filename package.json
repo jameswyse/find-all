@@ -1,7 +1,7 @@
 {
   "name": "find-all",
   "version": "0.0.1",
-  "description": "Finds all matching files",
+  "description": "Finds and resolves the files matching a given glob pattern or simple path",
   "author": "James Wyse <james@jameswyse.net>",
   "license": "MIT",
   "main": "lib/finder.js",
